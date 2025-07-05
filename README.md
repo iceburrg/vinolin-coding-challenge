@@ -1,1 +1,0 @@
-# vinolin-coding-challenge
