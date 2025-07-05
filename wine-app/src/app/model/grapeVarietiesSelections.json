@@ -1,0 +1,16 @@
+{
+  "selectedVarieties": [
+    {
+      "name": "Accent",
+      "percentage": 42
+    },
+    {
+      "name": "Adelfränkisch",
+      "percentage": 50
+    },
+    {
+      "name": "Grünedel",
+      "percentage": 8
+    }
+  ]
+}
