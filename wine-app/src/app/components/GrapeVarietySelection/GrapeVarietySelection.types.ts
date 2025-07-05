@@ -1,5 +1,8 @@
 export interface GrapeVariety {
     name: string;
-    isSelected: boolean;
-    percentage?: number;
-}
+    percentage?: number | null;
+  }
+  
+export interface FormValues {
+    selectedVarieties: GrapeVariety[];
+  }
